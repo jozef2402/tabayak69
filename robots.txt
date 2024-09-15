@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zirconplus.co.th/ThImg/cip/index.html/sitemap.xml
